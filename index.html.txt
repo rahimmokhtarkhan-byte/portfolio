@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Rahim Khan Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Rahim Mokhtar Khan</h1>
+<p>Web Developer</p>
+</header>
+
+<section class="about">
+<h2>About Me</h2>
+<p>
+I am a web developer skilled in HTML and CSS. 
+I am looking for opportunities to work on web development projects 
+and improve my skills while helping companies build websites.
+</p>
+</section>
+
+<section class="skills">
+<h2>Skills</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Responsive Web Design</li>
+<li>Basic JavaScript</li>
+</ul>
+</section>
+
+<section class="projects">
+<h2>Projects</h2>
+<div class="project">
+<h3>Portfolio Website</h3>
+<p>A personal portfolio website built using HTML and CSS.</p>
+</div>
+
+<div class="project">
+<h3>Landing Page</h3>
+<p>A responsive landing page design.</p>
+</div>
+</section>
+
+<section class="contact">
+<h2>Contact</h2>
+<p>Email: youremail@gmail.com</p>
+<p>GitHub: github.com/yourusername</p>
+</section>
+
+<footer>
+<p>© 2026 Rahim Khan</p>
+</footer>
+
+</body>
+</html>
